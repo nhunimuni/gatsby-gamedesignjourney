@@ -1,13 +1,21 @@
 ---
-title: 02 Introduction to Game and Interaction Design (Steinicke)
+title: Introduction to Game and Interaction Design (GT2)
 author: Nhu
 date: 2020-04-23
-hero: ./images/article-image-1.jpg
+hero: ./images/Euro_Theme_Teaser.png
 excerpt:
 ---
 
-## Verlauf
+## Instructor
 
-- Organisation
-- Kennenlernen der Interessen anderer Studenten
-- Ideen pitchen und darüber reden
+- M. Steinecke
+
+## First day
+
+- Organization
+- Getting to know the interests of other students
+- Pitch ideas and talk about them
+
+---
+
+Cover image credits goes to my teammate Marvin.

@@ -1,11 +1,7 @@
 name: Nhu
 bio: |
-  Hi. I am Nhu. Your average girl.
+  Hi. I am Nhu. I'm a member of the team Dados (GT2).
 avatar: ./avatars/nhu.jpg
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - url: https://github.com/nhunimuni
 featured: true

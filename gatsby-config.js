@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `Game Design Journey`,
-    name: `Team Unknown`,
+    name: `Team Dados`,
     siteUrl: `http://htw-m1.surge.sh/`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to my Journey on making an awesome Game.`,
-      maxWidth: 652,
+      heading: `Welcome to our journey on making an awesome game: DADOS`,
+      maxWidth: 800,
     },
     social: [
       {
