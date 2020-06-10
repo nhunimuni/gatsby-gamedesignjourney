@@ -4,8 +4,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
     "dev": "gatsby develop",
+    "build": "gatsby build",
+    "predeploy": "npm run build && cp CNAME public/",
+    "deploy": "surge public/",
     "clean": "gatsby clean",
     "proxy": "netlify-cms-proxy-server"
   },
