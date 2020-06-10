@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `http://htw-m1.surge.sh/`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to our journey on making an awesome game: DADOS test CI 2`,
+      heading: `Welcome to our journey on making an awesome game: DADOS`,
       maxWidth: 800,
     },
     social: [
